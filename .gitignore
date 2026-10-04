@@ -1,0 +1,3 @@
+# APK — лише через GitHub Releases, не в git
+*.apk
+*.aab
